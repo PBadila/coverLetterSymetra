@@ -129,7 +129,7 @@ button.addEventListener('click', ()=>{
 })
 
 
-let images = [img1,img2,img3,img4,img5,img6,img7,img8,img9];
+let images = [img1,img2,img3,img4,img5,img6,img8,img9];
 let radians = (2*Math.PI/images.length)
 console.log(radians);
 document.addEventListener("DOMContentLoaded", function() {
